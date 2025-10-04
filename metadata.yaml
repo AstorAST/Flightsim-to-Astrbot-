@@ -1,0 +1,5 @@
+name: "Flightsim user check"
+author: "AstorAST"
+description: "用于查询Flightsim.to的用户信息"
+version: "v1.0.0"
+repo: "https://github.com/AstorAST/Flightsim-to-Astrbot-"
